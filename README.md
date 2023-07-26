@@ -1,4 +1,4 @@
-﻿
+
 
 <img align="center" width="45%" src="logo.png">
 
@@ -509,3 +509,51 @@ Examples of Delivery Types 1 , 2 and 3
 
 [Deliverytype 3 Sample](Deliverytype3.txt)
 
+
+# STATUS CODES
+
+| Status Id | StatusName                     | StatusDescription                         |
+| --------- | ------------------------------ | ----------------------------------------- |
+| 101       | Cargo Shipping Order Received  | Job Order Received                        |
+| 102       | Document Issued                | Shipment Created                          |
+| 103       | Branch TM Loading              | Departed from the Departure Branch        |
+| 104       | TM Branch Unloading            | At the Point of Delivery                  |
+| 105       | TM Line Loading                | Loaded to Line Vehicle                    |
+| 106       | TM Line Unloading              | Unloaded from Line Vehicle                |
+| 107       | TM Branch Loading              | Loaded to the Branch from Transfer Center |
+| 108       | Branch TM Unloading            | Unloaded to the Transfer Center           |
+| 109       | Branch Distribution Loading    | Departed for Distribution                 |
+| 110       | Branch Distribution Unloading  | Branch Distribution Unloading             |
+| 111       | Delivered                      | Delivered                                 |
+| 112       | Receiver Phone Incorrect       | Receiver Phone Incorrect                  |
+| 113       | Return Request                 | Return Request                            |
+| 114       | Receiver Absent at the Address | Receiver Absent at the Address            |
+| 115       | Receiver Address Incorrect     | Receiver Address Incorrect                |
+| 117       | Damaged Shipment               | Damaged Shipment                          |
+| 118       | Lost Cargo                     | Lost Cargo                                |
+| 119       | Transfer                       | Transfer                                  |
+| 120       | Short Delivery                 | Short Delivery                            |
+| 121       | Out of Distribution Area       | Out of Distribution Area                  |
+| 122       | Payment Type Rejected          | Payment Type Rejected                     |
+| 123       | Delivery on Appointment        | Delivery on Appointment                   |
+| 124       | Mobile Distribution Region     | Mobile Distribution Region                |
+| 125       | Short Cargo                    | Short Cargo                               |
+| 126       | Routing                        | Routing                                   |
+| 127       | Line Vehicle Delay             | Line Vehicle Delay                        |
+| 128       | Adverse Weather Conditions     | Adverse Weather Conditions                |
+| 129       | Carriage Cost Found Expensive  | Carriage Cost Found Expensive             |
+| 130       | Not Delivered                  | Not Delivered                             |
+| 131       | Returned Shipment              | Returned Shipment                         |
+| 132       | Measurement / Weighing         | Measurement / Weighing Completed          |
+| 133       | Cancelled Shipment             | Cancelled Shipment                        |
+| 134       | Return Approved                | Return Request Approved                   |
+| 135       | Job Order Return               | Shipment Returned with Job Order          |
+| 136       | Return Rejected                | Rejected by client                        |
+| 137       | Pick-up on Appointment         | Client Scheduled an Appointment           |
+| 138       | Shipment Received              | Shipment Received                         |
+| 139       | Cancel Job Order               | Cancel Job Order                          |
+| 140       | Courier on Delivery            | Courier on Delivery                       |
+| 141       | Debited by Courier             | Debited by Courier                        |
+| 142       | Courier Released from Debit    | Courier releases from debit               |
+| 143       | Lost Cargo                     | Lost Cargo Job Order                      |
+| 151       | Delivery as a Return           | Delivery as a Return                      |

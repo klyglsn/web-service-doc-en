@@ -1,17 +1,8 @@
 
 
-<img align="center" width="45%" src="logo.png">
+<img align="center" width="196" src="logo.png">
 
-# Web Servis Teknik Dokümanı
-
-
-
-
-
-
-
-
-
+# Web Service Documentation
 
 ***Table of Contents***
 
